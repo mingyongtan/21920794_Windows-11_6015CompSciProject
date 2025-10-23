@@ -1,13 +1,4 @@
-## README
-
-Last Updated: 2025-10-23  
-Author: Ming Yong Tan
-
-### Description
-This dataset presents system performance data under both Single User and Multiple User environments. Metrics such as CPU, memory, disk, and network usage were collected using SysGauge and other tools at 10-minute, 15-minute, and 20-minute intervals. Applications monitored include Discord, Microsoft Edge, and Excel. The structure is designed to support comparative analysis, system benchmarking, and resource usage evaluations under varying workloads.
-
-### Directory Structure
-```text
+/workspace/
 ├── Multiple User/
 │   ├── CPU-Memory-DiskManagement/
 │   │   ├── Brave/
@@ -1767,4 +1758,4 @@ This dataset presents system performance data under both Single User and Multipl
 │       │   └── 15 mins.xlsx
 │       └── 20 mins/
 │           └── 20 mins.xlsx
-```
+└── README.md
