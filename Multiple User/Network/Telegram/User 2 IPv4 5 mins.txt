@@ -1,0 +1,4 @@
+Address,Packets,Bytes,Tx Packets,Tx Bytes,Rx Packets,Rx Bytes,Country,City,Latitude,Longitude,AS Number,AS Organization
+"23.216.63.122",23,7523,12,5712,11,1811,"","","","","",""
+"91.108.56.160",62,18805,27,10993,35,7812,"","","","","",""
+"172.28.58.189",85,26328,46,9623,39,16705,"","","","","",""

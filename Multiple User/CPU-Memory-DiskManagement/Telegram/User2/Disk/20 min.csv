@@ -1,0 +1,135 @@
+﻿Process	PID	Description	Company Name	I/O Read Bytes	I/O Write Bytes	I/O Other Bytes
+procexp64.exe	676	Sysinternals Process Explorer	Sysinternals - www.sysinternals.com	282.2  MB	57.6  KB	2.8  MB
+explorer.exe	5980	Windows Explorer	Microsoft Corporation	66.8  MB	62.0  MB	2.7  MB
+VBoxTray.exe	10492	VirtualBox Guest Additions Tray Application	Oracle and/or its affiliates	222.5  KB	54.0  KB	4.5  MB
+winlogon.exe	3952					
+wininit.exe	668					
+Widgets.exe	7116		Microsoft Corporation	854.3  KB	15.3  MB	405.0  KB
+VBoxService.exe	1516	VirtualBox Guest Additions Service	Oracle and/or its affiliates			
+UserOOBEBroker.exe	9920	User OOBE Broker	Microsoft Corporation	6.6  KB		2.1  KB
+Telegram.exe	9580	Telegram Desktop	Telegram FZ-LLC	30.9  MB	44.4  MB	60.2  MB
+taskhostw.exe	4552	Host Process for Windows Tasks	Microsoft Corporation	524.0  KB	26.1  MB	90.9  KB
+System Idle Process	0					
+System	4					
+svchost.exe	5632	Host Process for Windows Services	Microsoft Corporation	11.5  KB		240.3  KB
+svchost.exe	2972	Host Process for Windows Services	Microsoft Corporation	1.3  MB	24.9  MB	15.3  KB
+svchost.exe	10076	Host Process for Windows Services	Microsoft Corporation	19.1  KB	516.9  KB	9.5  KB
+svchost.exe	5416	Host Process for Windows Services	Microsoft Corporation	3.1  MB	15.6  MB	13.5  KB
+svchost.exe	944	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	532	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	892	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1132	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1164	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1172	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1220	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1296	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1340	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1380	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1400	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1584	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1608	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1732	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1756	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1776	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1840	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1948	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2008	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2040	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1156	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2072	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2148	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2216	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2292	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2300	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2428	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2436	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2476	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2532	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2688	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2736	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2852	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2860	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	2872	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3004	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3032	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3144	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3176	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3216	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3284	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	4792	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	4396	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	4308	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3820	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3568	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3316	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	5800	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	4040	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	7156	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	8688	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1836	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	3296	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1536	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1880	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	7872	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	5012	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	4748	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	9888	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	4688	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	1820	Host Process for Windows Services	Microsoft Corporation	3.4  KB		1.1  KB
+svchost.exe	4168	Host Process for Windows Services	Microsoft Corporation	51.4  KB		10.4  KB
+svchost.exe	9204	Host Process for Windows Services	Microsoft Corporation	11.9  KB		2.4  KB
+svchost.exe	6552	Host Process for Windows Services	Microsoft Corporation			
+svchost.exe	5556	Host Process for Windows Services	Microsoft Corporation			
+StartMenuExperienceHost.exe	8984	Windows Start Experience Host	Microsoft Corporation	8.5  MB	1.6  MB	501.4  KB
+spoolsv.exe	2648	Spooler SubSystem App	Microsoft Corporation			
+snmp.exe	3128	SNMP Service	Microsoft Corporation			
+smss.exe	432					
+sihost.exe	6984	Shell Infrastructure Host	Microsoft Corporation	277.7  KB		3.5  MB
+ShellHost.exe	4580	ShellHost	Microsoft Corporation	512 B		8.6  KB
+ShellExperienceHost.exe	3416	Windows Shell Experience Host	Microsoft Corporation	41.0  KB		13.4  KB
+services.exe	812					
+SecurityHealthSystray.exe	7536	Windows Security notification icon	Microsoft Corporation	7.5  KB		2.9  KB
+SecurityHealthService.exe	7968	Windows Security Health Service	Microsoft Corporation			
+SearchIndexer.exe	5700	Microsoft Windows Search Indexer	Microsoft Corporation			
+SearchHost.exe	8420		Microsoft Corporation	7.9  MB	24.8  MB	289.8  KB
+RuntimeBroker.exe	3212	Runtime Broker	Microsoft Corporation	1.4  MB	193.2  KB	150.3  KB
+RuntimeBroker.exe	5164	Runtime Broker	Microsoft Corporation	22.4  KB	32 B	18.8  KB
+RuntimeBroker.exe	4304	Runtime Broker	Microsoft Corporation	92.2  KB		35.8  KB
+Registry	96					
+procexp.exe	6556	Sysinternals Process Explorer	Sysinternals - www.sysinternals.com	137.7  KB	2.3  MB	3.8  KB
+PhoneExperienceHost.exe	8488	Microsoft Phone Link	Microsoft Corporation	941.2  KB	93 B	150.6  KB
+OfficeClickToRun.exe	2884	Microsoft Office Click-to-Run (SxS)	Microsoft Corporation			
+NisSrv.exe	4072	Microsoft Network Realtime Inspection Service	Microsoft Corporation			
+MsMpEng.exe	3196	Antimalware Service Executable	Microsoft Corporation			
+msedgewebview2.exe	1580	Microsoft Edge WebView2	Microsoft Corporation	28.7  MB	19.5  MB	364.6  KB
+msedgewebview2.exe	2960	Microsoft Edge WebView2	Microsoft Corporation	3.6  MB	5.6  MB	11.1  KB
+msedgewebview2.exe	2996	Microsoft Edge WebView2	Microsoft Corporation	3.5  MB	4.4  MB	76.5  KB
+msedgewebview2.exe	6812	Microsoft Edge WebView2	Microsoft Corporation	6.7  KB	204 B	6.8  KB
+msedgewebview2.exe	7692	Microsoft Edge WebView2	Microsoft Corporation	624.5  KB	1.9  MB	8.5  KB
+msedgewebview2.exe	4036	Microsoft Edge WebView2	Microsoft Corporation	6.3  KB	192 B	6.7  KB
+msedgewebview2.exe	2568	Microsoft Edge WebView2	Microsoft Corporation	235.6  KB	624.9  KB	24.7  KB
+msedgewebview2.exe	7852	Microsoft Edge WebView2	Microsoft Corporation	35.1  MB	24.4  MB	540.0  KB
+msedgewebview2.exe	9520	Microsoft Edge WebView2	Microsoft Corporation	5.3  MB	11.7  MB	209.0  KB
+msedgewebview2.exe	9172	Microsoft Edge WebView2	Microsoft Corporation	73.4  MB	1.8  MB	24.1  KB
+msedgewebview2.exe	7996	Microsoft Edge WebView2	Microsoft Corporation	30.7  MB	85.9  MB	11.8  KB
+msedgewebview2.exe	8996	Microsoft Edge WebView2	Microsoft Corporation	12.4  MB	8.8  MB	8.4  KB
+msedgewebview2.exe	10548	Microsoft Edge WebView2	Microsoft Corporation	28.3  KB	155.4  KB	11.5  KB
+MpDefenderCoreService.exe	2844	Antimalware Core Service	Microsoft Corporation			
+Microsoft.SharePoint.exe	9776	Microsoft SharePoint	Microsoft Corporation	1.5  MB	2.5  MB	136.2  KB
+Memory Compression	1956					
+lsass.exe	832	Local Security Authority Process	Microsoft Corporation			
+Interrupts	n/a	Hardware Interrupts and DPCs				
+fontdrvhost.exe	964					
+fontdrvhost.exe	1616					
+dwm.exe	7400					
+dllhost.exe	5172	COM Surrogate	Microsoft Corporation	525.8  KB	4.5  MB	18.3  KB
+ctfmon.exe	5296			4.4  MB	442.7  KB	116.8  KB
+csrss.exe	600					
+csrss.exe	8864					
+CrossDeviceResume.exe	6412		Microsoft Corporation	38.5  KB		22.9  KB
+backgroundTaskHost.exe	980	Background Task Host	Microsoft Corporation			185.1  KB
+audiodg.exe	9592			6.6  KB		6.0  KB
+ApplicationFrameHost.exe	9696	Application Frame Host	Microsoft Corporation	25.8  KB		6.8  KB
+AppActions.exe	9132			46.8  KB	2.4  KB	6.7  KB
+AggregatorHost.exe	5076					
+

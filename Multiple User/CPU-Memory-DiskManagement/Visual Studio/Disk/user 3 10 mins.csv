@@ -1,0 +1,152 @@
+﻿Process	PID	Description	I/O Read Bytes	I/O Write Bytes	I/O Other Bytes
+Code.exe	9788	Visual Studio Code	5.4  MB	2.4  MB	9.8  KB
+Code.exe	9692	Visual Studio Code	19.9  MB	6.5  MB	908.2  KB
+Code.exe	9648	Visual Studio Code	16.4  MB	16.5  MB	16.2  KB
+svchost.exe	9636	Host Process for Windows Services			
+Code.exe	9572	Visual Studio Code	1.1  MB	140.9  KB	37.9  KB
+msedgewebview2.exe	9552	Microsoft Edge WebView2	31.5  MB	16.4  MB	11.2  KB
+sppsvc.exe	9476	Microsoft Software Protection Platform Service			
+Code.exe	9420	Visual Studio Code	1.7  MB	1.4  MB	140.3  KB
+Code.exe	9356	Visual Studio Code	28.6  MB	25.1  MB	372.0  KB
+svchost.exe	9132	Host Process for Windows Services			
+SecurityHealthService.exe	9040	Windows Security Health Service			
+backgroundTaskHost.exe	8996	Background Task Host			10.8  KB
+PhoneExperienceHost.exe	8496	Microsoft Phone Link	1.1  MB	2.8  KB	225.1  KB
+svchost.exe	8464	Host Process for Windows Services	10.9  KB		15.6  KB
+NisSrv.exe	8412	Microsoft Network Realtime Inspection Service			
+SecurityHealthSystray.exe	8364	Windows Security notification icon	6.7  KB		3.0  KB
+svchost.exe	8344	Host Process for Windows Services			
+Code.exe	8284	Visual Studio Code	15.5  MB	799.6  KB	25.0  KB
+AppActions.exe	8116		40.7  KB	2.7  KB	6.8  KB
+RuntimeBroker.exe	8092	Runtime Broker			2.4  KB
+msedgewebview2.exe	7972	Microsoft Edge WebView2	2.3  MB	12.2  MB	115.8  KB
+svchost.exe	7860	Host Process for Windows Services	50.9  KB		11.4  KB
+svchost.exe	7836	Host Process for Windows Services			
+Widgets.exe	7828		590.6  KB	16.9  MB	641.4  KB
+msedgewebview2.exe	7364	Microsoft Edge WebView2	16.0  KB	2.9  KB	11.4  KB
+svchost.exe	7336	Host Process for Windows Services			
+RuntimeBroker.exe	7080	Runtime Broker	170.1  KB	425.6  KB	137.6  KB
+svchost.exe	7056	Host Process for Windows Services	51.4  KB		10.4  KB
+WidgetService.exe	7036	WidgetService.exe	18.4  KB	1.6  KB	19.7  KB
+RuntimeBroker.exe	7016	Runtime Broker	13.7  KB		1.5  KB
+StartMenuExperienceHost.exe	6872	Windows Start Experience Host	5.6  MB	607.3  KB	239.6  KB
+UserOOBEBroker.exe	6816	User OOBE Broker	5.5  KB		2.1  KB
+svchost.exe	6756	Host Process for Windows Services			
+msedgewebview2.exe	6400	Microsoft Edge WebView2	24.4  MB	21.6  MB	332.3  KB
+svchost.exe	6348	Host Process for Windows Services			
+SearchIndexer.exe	6340	Microsoft Windows Search Indexer			
+svchost.exe	6264	Host Process for Windows Services			
+CrossDeviceResume.exe	6212		38.5  KB		23.8  KB
+OneDrive.exe	6204	Microsoft OneDrive	6.0  MB	1.6  MB	751.9  KB
+VBoxTray.exe	6164	VirtualBox Guest Additions Tray Application	90.0  KB	20.9  KB	1.7  MB
+svchost.exe	5928	Host Process for Windows Services			
+ShellHost.exe	5896	ShellHost	512 B		8.1  KB
+SearchHost.exe	5868		5.8  MB	1.5  MB	303.9  KB
+AggregatorHost.exe	5860				
+backgroundTaskHost.exe	5840	Background Task Host	3.2  MB	3.9  KB	17.9  KB
+explorer.exe	5816	Windows Explorer	185.1  MB	122.8  MB	2.8  MB
+msedgewebview2.exe	5652	Microsoft Edge WebView2	6.9  KB	120 B	4.1  KB
+msedgewebview2.exe	5540	Microsoft Edge WebView2	634.3  KB	409.3  KB	24.2  KB
+svchost.exe	5300	Host Process for Windows Services			
+svchost.exe	5224	Host Process for Windows Services			
+msedgewebview2.exe	5196	Microsoft Edge WebView2	6.0  KB	84 B	4.3  KB
+svchost.exe	4960	Host Process for Windows Services			
+svchost.exe	4896	Host Process for Windows Services			
+Code.exe	4788	Visual Studio Code	156.1  KB	132.6  KB	15.9  KB
+msedgewebview2.exe	4724	Microsoft Edge WebView2	3.2  MB	526.1  KB	22.9  KB
+taskhostw.exe	4704	Host Process for Windows Tasks	1.6  MB	18.4  MB	77.4  KB
+svchost.exe	4672	Host Process for Windows Services			
+svchost.exe	4660	Host Process for Windows Services			
+winlogon.exe	4440				
+csrss.exe	4380				
+svchost.exe	4280	Host Process for Windows Services			
+svchost.exe	4080	Host Process for Windows Services			
+RuntimeBroker.exe	3896	Runtime Broker	14.2  KB		5.7  KB
+svchost.exe	3868	Host Process for Windows Services	3.5  KB		1.1  KB
+svchost.exe	3852	Host Process for Windows Services			
+svchost.exe	3788	Host Process for Windows Services	5.5  KB		4.5  KB
+msedgewebview2.exe	3756	Microsoft Edge WebView2	24.3  MB	6.8  MB	462.3  KB
+msedgewebview2.exe	3648	Microsoft Edge WebView2	6.9  MB	7.7  MB	11.1  KB
+svchost.exe	3620	Host Process for Windows Services			
+svchost.exe	3568	Host Process for Windows Services	1.1  MB	4.5  MB	23.8  KB
+ctfmon.exe	3564		867.9  KB		102.5  KB
+ShellExperienceHost.exe	3508	Windows Shell Experience Host	43.1  KB		13.2  KB
+svchost.exe	3464	Host Process for Windows Services			
+svchost.exe	3456	Host Process for Windows Services			
+MsMpEng.exe	3392	Antimalware Service Executable			
+svchost.exe	3352	Host Process for Windows Services			
+svchost.exe	3340	Host Process for Windows Services			
+svchost.exe	3332	Host Process for Windows Services			
+dwm.exe	3328				
+sihost.exe	3300	Shell Infrastructure Host	197.4  KB		1.3  MB
+snmp.exe	3288	SNMP Service			
+MpDefenderCoreService.exe	3196	Antimalware Core Service			
+svchost.exe	3148	Host Process for Windows Services			
+svchost.exe	3140	Host Process for Windows Services			
+svchost.exe	3056	Host Process for Windows Services			
+svchost.exe	3044	Host Process for Windows Services			
+svchost.exe	3036	Host Process for Windows Services	85.6  KB	37.7  KB	8.3  KB
+svchost.exe	2976	Host Process for Windows Services			
+svchost.exe	2956	Host Process for Windows Services			
+msedgewebview2.exe	2928	Microsoft Edge WebView2	13.4  MB	20.5  MB	8.5  KB
+svchost.exe	2864	Host Process for Windows Services			
+svchost.exe	2832	Host Process for Windows Services			
+msedgewebview2.exe	2784	Microsoft Edge WebView2	1.1  MB	2.9  MB	8.5  KB
+spoolsv.exe	2720	Spooler SubSystem App			
+svchost.exe	2604	Host Process for Windows Services			
+svchost.exe	2456	Host Process for Windows Services			
+svchost.exe	2444	Host Process for Windows Services			
+svchost.exe	2436	Host Process for Windows Services			
+svchost.exe	2432	Host Process for Windows Services			
+RuntimeBroker.exe	2428	Runtime Broker	33.4  KB		10.3  KB
+svchost.exe	2380	Host Process for Windows Services			
+svchost.exe	2304	Host Process for Windows Services			
+svchost.exe	2240	Host Process for Windows Services			
+RuntimeBroker.exe	2200	Runtime Broker	17.5  KB		2.1  KB
+svchost.exe	2160	Host Process for Windows Services			
+svchost.exe	2132	Host Process for Windows Services			
+svchost.exe	2104	Host Process for Windows Services			
+OfficeClickToRun.exe	2052	Microsoft Office Click-to-Run (SxS)			
+svchost.exe	1988	Host Process for Windows Services			
+svchost.exe	1976	Host Process for Windows Services			
+svchost.exe	1968	Host Process for Windows Services			
+svchost.exe	1952	Host Process for Windows Services			
+svchost.exe	1940	Host Process for Windows Services			
+svchost.exe	1916	Host Process for Windows Services			
+svchost.exe	1900	Host Process for Windows Services			
+svchost.exe	1836	Host Process for Windows Services			
+msedgewebview2.exe	1744	Microsoft Edge WebView2	2.7  MB	5.2  MB	78.9  KB
+VBoxService.exe	1724	VirtualBox Guest Additions Service			
+procexp.exe	1580	Sysinternals Process Explorer	138.9  KB	2.3  MB	3.8  KB
+svchost.exe	1552	Host Process for Windows Services			
+RuntimeBroker.exe	1548	Runtime Broker			3.0  KB
+svchost.exe	1532	Host Process for Windows Services			
+svchost.exe	1524	Host Process for Windows Services			
+FileCoAuth.exe	1484	Microsoft OneDriveFile Co-Authoring Executable	200.2  KB	35.6  KB	3.6  KB
+procexp64.exe	1448	Sysinternals Process Explorer	281.7  MB	45.5  KB	2.6  MB
+svchost.exe	1416	Host Process for Windows Services			
+svchost.exe	1404	Host Process for Windows Services			
+svchost.exe	1348	Host Process for Windows Services			
+Memory Compression	1300				
+svchost.exe	1264	Host Process for Windows Services			
+svchost.exe	1208	Host Process for Windows Services			
+svchost.exe	1196	Host Process for Windows Services			
+svchost.exe	1172	Host Process for Windows Services			
+svchost.exe	1152	Host Process for Windows Services			
+svchost.exe	1144	Host Process for Windows Services			
+fontdrvhost.exe	1068				
+backgroundTaskHost.exe	1048	Background Task Host			185.2  KB
+svchost.exe	956	Host Process for Windows Services			
+fontdrvhost.exe	940				
+lsass.exe	828	Local Security Authority Process			
+services.exe	812				
+wininit.exe	672				
+csrss.exe	600				
+svchost.exe	576	Host Process for Windows Services			
+svchost.exe	528	Host Process for Windows Services			
+smss.exe	440				
+Registry	104				
+System	4				
+System Idle Process	0				
+Interrupts	n/a	Hardware Interrupts and DPCs			
+

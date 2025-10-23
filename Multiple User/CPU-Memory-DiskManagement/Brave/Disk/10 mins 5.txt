@@ -1,0 +1,259 @@
+﻿Process	PID	I/O Read Bytes	I/O Write Bytes	I/O Other Bytes
+msedge.exe	7004	8.3  GB	3.2  GB	12.9  MB
+brave.exe	8508	279.9  MB	295.8  MB	6.0  MB
+procexp64.exe	21500	262.7  MB	96.2  KB	5.2  MB
+brave.exe	14284	101.2  MB	2.3  MB	49.8  KB
+msedgewebview2.exe	5388	76.3  MB	2.2  MB	21.7  KB
+OneDrive.exe	12820	51.2  MB	11.8  MB	16.3  MB
+msedgewebview2.exe	8616	48.6  MB	28.2  MB	4.2  MB
+msedgewebview2.exe	1500	47.0  MB	99.0  MB	11.9  KB
+brave.exe	2576	45.3  MB	55.1  MB	3.2  MB
+explorer.exe	6332	35.9  MB	28.6  MB	3.3  MB
+msedgewebview2.exe	7992	34.6  MB	21.1  MB	1.0  MB
+brave.exe	4988	30.4  MB	94.2  MB	15.7  KB
+msedgewebview2.exe	20308	22.7  MB	19.0  MB	7.5  KB
+msedgewebview2.exe	9860	22.6  MB	27.2  MB	12.7  KB
+svchost.exe	6744	17.9  MB	402.7  MB	38.1  KB
+msedge.exe	19292	13.6  MB	84.8  MB	10.8  KB
+svchost.exe	3596	13.1  MB	292.0  KB	11.9  KB
+msedge.exe	20060	11.0  MB	5.7  MB	2.9  MB
+msedgewebview2.exe	9572	10.8  MB	20.1  MB	7.7  KB
+msedgewebview2.exe	8256	9.7  MB	9.2  MB	338.1  KB
+StartMenuExperienceHost.exe	8100	8.4  MB	284.1  KB	240.9  KB
+svchost.exe	6612	8.0  MB	29.4  MB	1.1  MB
+SearchHost.exe	8080	7.7  MB	3.7  MB	1.1  MB
+msedgewebview2.exe	9220	7.6  MB	14.4  MB	2.3  MB
+msedgewebview2.exe	7080	7.5  MB	1.9  MB	22.6  KB
+backgroundTaskHost.exe	19988	7.3  MB	8.2  KB	262.8  KB
+taskhostw.exe	6800	5.5  MB	34.2  MB	207.1  KB
+sihost.exe	6620	5.1  MB		4.2  MB
+ctfmon.exe	10220	4.4  MB	17.1  KB	534.5  KB
+Widgets.exe	18276	3.1  MB	19.1  MB	839.1  KB
+OneDrive.Sync.Service.exe	11636	2.9  MB	1.2  MB	1015.7  KB
+msedge.exe	18184	2.5  MB	7.9  MB	20.1  KB
+brave.exe	20448	2.2  MB	1.6  MB	14.1  KB
+brave.exe	20544	1.8  MB	2.0  MB	50.1  KB
+WindowsPackageManagerServer.exe	14784	1.3  MB	25.8  KB	272.0  KB
+PhoneExperienceHost.exe	15012	1.1  MB	93 B	150.0  KB
+RuntimeBroker.exe	2232	939.6  KB	248 B	208.3  KB
+msedge.exe	416	372.2  KB	1.0  MB	10.6  KB
+brave.exe	11400	316.2  KB	155.1  KB	15.6  KB
+msedge.exe	18424	174.0  KB	444.0  KB	7.3  KB
+RuntimeBroker.exe	20772	94.8  KB	160 B	39.0  KB
+vmtoolsd.exe	10396	82.5  KB	225.1  KB	6.1  KB
+brave.exe	20692	71.0  KB	77.1  KB	9.5  KB
+CrossDeviceResume.exe	2496	66.3  KB		15.0  KB
+svchost.exe	7056	48.3  KB		7.7  KB
+msedge.exe	16028	42.1  KB	12.0  KB	7.4  KB
+AppActions.exe	12072	36.5  KB	1.9  KB	5.5  KB
+ShellExperienceHost.exe	7976	29.9  KB		5.9  KB
+ApplicationFrameHost.exe	13980	26.1  KB		10.0  KB
+taskhostw.exe	8500	19.1  KB	17.9  KB	29.4  KB
+RuntimeBroker.exe	17224	19.0  KB		2.0  KB
+WidgetService.exe	8312	17.7  KB	3.3  KB	27.0  KB
+MoNotificationUx.exe	13964	10.5  KB		2.9  KB
+brave.exe	10836	8.9  KB	792 B	6.0  KB
+SecurityHealthSystray.exe	10316	8.5  KB		2.5  KB
+audiodg.exe	17412	7.6  KB		74.0  KB
+msedgewebview2.exe	19760	7.6  KB	84 B	5.3  KB
+svchost.exe	14160	7.3  KB		7.5  KB
+UserOOBEBroker.exe	15184	6.9  KB		908 B
+msedgewebview2.exe	8700	6.2  KB	84 B	13.6  KB
+svchost.exe	19340	5.8  KB		372 B
+backgroundTaskHost.exe	6448	4.2  KB	426 B	189.0  KB
+xampp-control.exe	7456			
+WWAHost.exe	10288			
+WmiPrvSE.exe	1220			
+winlogon.exe	1044			
+winlogon.exe	15024			
+wininit.exe	740			
+WindowsTerminal.exe	13104			
+WindowsPackageManagerServer.exe	16188			
+WidgetService.exe	1604			
+Widgets.exe	14936			
+vmtoolsd.exe	4068			
+vm3dservice.exe	4156			
+vm3dservice.exe	4492			
+VGAuthService.exe	3392			
+Telegram.exe	9704			
+taskhostw.exe	5576			
+taskhostw.exe	18916			
+System Idle Process	0			
+System	4			
+svchost.exe	1252			
+svchost.exe	1384			
+svchost.exe	1436			
+svchost.exe	1608			
+svchost.exe	1700			
+svchost.exe	1784			
+svchost.exe	1792			
+svchost.exe	1832			
+svchost.exe	1920			
+svchost.exe	1980			
+svchost.exe	2020			
+svchost.exe	756			
+svchost.exe	1152			
+svchost.exe	2160			
+svchost.exe	2204			
+svchost.exe	2368			
+svchost.exe	2388			
+svchost.exe	2396			
+svchost.exe	2404			
+svchost.exe	2412			
+svchost.exe	2440			
+svchost.exe	2596			
+svchost.exe	2680			
+svchost.exe	2688			
+svchost.exe	2892			
+svchost.exe	2928			
+svchost.exe	2988			
+svchost.exe	3024			
+svchost.exe	2528			
+svchost.exe	3096			
+svchost.exe	3300			
+svchost.exe	3308			
+svchost.exe	3364			
+svchost.exe	3400			
+svchost.exe	3624			
+svchost.exe	3740			
+svchost.exe	3888			
+svchost.exe	3920			
+svchost.exe	3956			
+svchost.exe	3964			
+svchost.exe	3988			
+svchost.exe	4036			
+svchost.exe	4048			
+svchost.exe	4056			
+svchost.exe	924			
+svchost.exe	4608			
+svchost.exe	4688			
+svchost.exe	5184			
+svchost.exe	5216			
+svchost.exe	5324			
+svchost.exe	5456			
+svchost.exe	5804			
+svchost.exe	5916			
+svchost.exe	6000			
+svchost.exe	4320			
+svchost.exe	2488			
+svchost.exe	6708			300 B
+svchost.exe	4504			
+svchost.exe	7152			
+svchost.exe	7696			
+svchost.exe	7780			10.0  KB
+svchost.exe	9564			
+svchost.exe	14288			
+svchost.exe	14316			
+svchost.exe	7324			
+svchost.exe	1240			
+svchost.exe	4424			
+svchost.exe	1940			
+svchost.exe	3556			
+svchost.exe	4396			
+svchost.exe	10332			
+svchost.exe	14028			
+svchost.exe	7768			
+svchost.exe	3512			
+svchost.exe	9732			
+svchost.exe	10748			
+svchost.exe	14272			
+svchost.exe	3724			
+svchost.exe	9156			
+svchost.exe	16272			
+svchost.exe	16888			
+svchost.exe	16884			
+svchost.exe	12224			
+svchost.exe	12800			
+svchost.exe	14564			
+svchost.exe	8304			
+svchost.exe	3468			
+svchost.exe	20940			
+svchost.exe	17552			
+StartMenuExperienceHost.exe	7404			
+spoolsv.exe	3632			
+smss.exe	768			
+sihost.exe	11284			
+ShellHost.exe	12972			
+ShellHost.exe	20868			3.1  KB
+ShellExperienceHost.exe	15644			
+services.exe	1116			
+SecurityHealthSystray.exe	9232			
+SecurityHealthService.exe	10336			
+SearchProtocolHost.exe	21448			
+SearchIndexer.exe	8220			
+SearchHost.exe	3088			
+SearchFilterHost.exe	20800			
+RuntimeBroker.exe	10824			
+RuntimeBroker.exe	4016			
+RuntimeBroker.exe	15960			
+RuntimeBroker.exe	9556			
+RuntimeBroker.exe	13024			
+RuntimeBroker.exe	8168			
+Registry	292			
+rdpclip.exe	7792			
+powershell.exe	5720			
+OpenConsole.exe	14460			
+OneDrive.Sync.Service.exe	796			
+NisSrv.exe	3484			
+mysqld.exe	13872			
+MsMpEng.exe	4132			
+msedgewebview2.exe	3880			
+msedgewebview2.exe	5056			
+msedgewebview2.exe	14128			
+msedgewebview2.exe	14948			
+msedgewebview2.exe	13644			
+msedgewebview2.exe	2716			
+msedgewebview2.exe	10384			
+msedgewebview2.exe	11676			
+msedgewebview2.exe	14756			
+msedgewebview2.exe	10528			
+msedgewebview2.exe	9996			
+msedgewebview2.exe	16268			
+msedge.exe	19048			
+msedge.exe	18848			
+msedge.exe	18884			
+msedge.exe	18908			
+msedge.exe	19328			
+msdtc.exe	920			
+MpDefenderCoreService.exe	4140			
+MoUsoCoreWorker.exe	11876			
+Memory Compression	2616			
+lsass.exe	1136			
+LogonUI.exe	13136			
+Interrupts	n/a			
+httpd.exe	1584			
+httpd.exe	6464			
+fontdrvhost.exe	1300			
+fontdrvhost.exe	1308			
+fontdrvhost.exe	13196			
+FileCoAuth.exe	11488			
+explorer.exe	10576			
+dwm.exe	1516			
+dwm.exe	14964			
+dllhost.exe	4180			
+dllhost.exe	16148			
+dllhost.exe	1060			
+dllhost.exe	16488			332 B
+csrss.exe	984			
+csrss.exe	864			
+csrss.exe	6852			
+CrossDeviceResume.exe	3916			
+CredentialEnrollmentManager.exe	8948			530 B
+conhost.exe	14096			
+conhost.exe	5212			
+CHXSmartScreen.exe	1316			
+BraveCrashHandler64.exe	7308			
+BraveCrashHandler.exe	7260			
+backgroundTaskHost.exe	14132			183.8  KB
+backgroundTaskHost.exe	17532			
+backgroundTaskHost.exe	2472			183.8  KB
+backgroundTaskHost.exe	15308			183.8  KB
+backgroundTaskHost.exe	13664			8.6  KB
+backgroundTaskHost.exe	16592			6.0  KB
+backgroundTaskHost.exe	18564			183.9  KB
+backgroundTaskHost.exe	13552			183.9  KB
+backgroundTaskHost.exe	21296			
+ApplicationFrameHost.exe	12060			
+AppActions.exe	15104			
+AggregatorHost.exe	5652			
+

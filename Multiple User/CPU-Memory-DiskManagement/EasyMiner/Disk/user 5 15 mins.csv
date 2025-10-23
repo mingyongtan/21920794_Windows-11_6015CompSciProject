@@ -1,0 +1,192 @@
+﻿Process	PID	I/O Read Bytes	I/O Write Bytes	I/O Other Bytes
+explorer.exe	9132	747.8  MB	778.2  MB	5.1  MB
+procexp64.exe	392	262.5  MB	119.2  KB	3.0  MB
+SearchHost.exe	12948	23.2  MB	7.2  MB	438.9  KB
+svchost.exe	11728	13.1  MB	40.2  MB	406.2  KB
+ShellExperienceHost.exe	14544	12.1  MB	147.7  KB	430.7  KB
+EasyMiner.exe	6016	12.0  MB	81.8  KB	13.0  MB
+svchost.exe	1604	6.9  MB	412.0  KB	11.1  KB
+dllhost.exe	1876	6.4  MB	16.3  MB	88.8  KB
+taskhostw.exe	6404	3.4  MB	24.1  MB	72.4  KB
+RuntimeBroker.exe	6816	2.5  MB	1.1  KB	265.0  KB
+OneDrive.Sync.Service.exe	7000	1.8  MB	2.3  MB	113.9  KB
+svchost.exe	692	1.2  MB	15.8  MB	632.5  KB
+HxTsr.exe	12108	1019.9  KB	1.6  MB	13.5  KB
+sihost.exe	6388	878.5  KB		922.8  KB
+SystemSettings.exe	13372	272.3  KB	184 B	50.8  KB
+WinStore.App.exe	12444	196.9  KB	169.5  KB	44.8  KB
+RuntimeBroker.exe	11252	181.7  KB	440 B	64.2  KB
+StartMenuExperienceHost.exe	14456	163.6  KB	8.0  KB	50.6  KB
+procexp.exe	14484	136.3  KB	2.3  MB	2.9  KB
+RuntimeBroker.exe	6308	99.0  KB	160 B	66.8  KB
+StoreDesktopExtension.exe	12300	80.1  KB		16.2  KB
+WindowsPackageManagerServer.exe	1400	69.0  KB	1.4  KB	25.0  KB
+RuntimeBroker.exe	15580	56.9  KB	436 B	37.3  KB
+RuntimeBroker.exe	4864	54.8  KB	188 B	766.0  KB
+DataExchangeHost.exe	6212	41.9  KB	248 B	22.1  KB
+Widgets.exe	2448	34.9  KB		29.6  KB
+LockApp.exe	11204	31.5  KB		9.2  KB
+ApplicationFrameHost.exe	16032	24.5  KB		13.8  KB
+svchost.exe	8140	23.7  KB		74.9  KB
+RuntimeBroker.exe	1684	17.1  KB	96 B	56.0  KB
+svchost.exe	892	10.2  KB		10.5  KB
+RuntimeBroker.exe	8000	10.1  KB		9.2  KB
+WidgetService.exe	14672	9.3  KB	1.6  KB	10.5  KB
+svchost.exe	14908	8.1  KB		2.6  KB
+ctfmon.exe	4124	7.1  KB		147.7  KB
+svchost.exe	5372	6.6  KB		2.1  KB
+conhost.exe	16760	6.5  KB		3.3  KB
+SecurityHealthSystray.exe	11568	6.1  KB		3.4  KB
+audiodg.exe	13092	5.3  KB		383.9  KB
+dllhost.exe	2904	3.6  KB		1.5  KB
+WmiPrvSE.exe	5080			
+WinStore.App.exe	8384			
+winlogon.exe	972			
+winlogon.exe	6464			
+wininit.exe	872			
+WindowsPackageManagerServer.exe	11604			
+WidgetService.exe	1968			
+Widgets.exe	6744			
+vmtoolsd.exe	3392			
+vmtoolsd.exe	6112			
+vm3dservice.exe	3416			
+vm3dservice.exe	3692			
+vm3dservice.exe	7416			
+VGAuthService.exe	3400			
+uhssvc.exe	7028			
+taskhostw.exe	1580			
+SystemSettingsBroker.exe	10600			79.2  KB
+System Idle Process	0			
+System	4			
+sysgau.exe	1064			
+svchost.exe	1056			
+svchost.exe	1188			
+svchost.exe	1240			
+svchost.exe	1452			
+svchost.exe	1616			
+svchost.exe	1624			
+svchost.exe	1632			
+svchost.exe	1692			
+svchost.exe	1720			
+svchost.exe	1772			
+svchost.exe	1856			
+svchost.exe	1020			
+svchost.exe	1576			
+svchost.exe	2076			
+svchost.exe	2136			
+svchost.exe	2144			
+svchost.exe	2160			
+svchost.exe	2248			
+svchost.exe	2388			
+svchost.exe	2440			
+svchost.exe	2452			
+svchost.exe	2504			
+svchost.exe	2728			
+svchost.exe	2760			
+svchost.exe	2844			
+svchost.exe	2852			
+svchost.exe	2884			
+svchost.exe	2988			
+svchost.exe	3104			
+svchost.exe	3180			
+svchost.exe	3304			
+svchost.exe	3320			
+svchost.exe	3328			
+svchost.exe	3344			
+svchost.exe	3356			
+svchost.exe	3376			
+svchost.exe	3384			
+svchost.exe	3836			
+svchost.exe	4068			
+svchost.exe	4340			
+svchost.exe	4788			
+svchost.exe	4796			
+svchost.exe	5028			
+svchost.exe	6076			
+svchost.exe	1208			
+svchost.exe	5216			
+svchost.exe	6644			
+svchost.exe	6864			
+svchost.exe	7076			
+svchost.exe	4508			
+svchost.exe	1148			
+svchost.exe	3568			
+svchost.exe	5320			
+svchost.exe	5096			
+svchost.exe	6856			
+svchost.exe	6036			
+svchost.exe	3508			
+svchost.exe	1948			
+svchost.exe	4308			
+svchost.exe	5444			
+svchost.exe	7344			
+svchost.exe	9308			
+svchost.exe	6504			
+svchost.exe	1408			
+svchost.exe	11616			
+svchost.exe	10960			
+svchost.exe	15444			
+svchost.exe	6280			
+svchost.exe	16192			
+svchost.exe	12740			
+svchost.exe	4980			
+svchost.exe	14292			
+StoreDesktopExtension.exe	2688			
+StartMenuExperienceHost.exe	4640			
+spoolsv.exe	3080			
+smss.exe	660			
+sihost.exe	5700			
+ShellExperienceHost.exe	10596			
+SgrmBroker.exe	6920			
+services.exe	992			
+SecurityHealthSystray.exe	1512			
+SecurityHealthService.exe	2720			
+SearchProtocolHost.exe	4480			
+SearchIndexer.exe	4932			
+SearchHost.exe	7084			
+SearchFilterHost.exe	7040			
+RuntimeBroker.exe	7232			
+RuntimeBroker.exe	7284			
+RuntimeBroker.exe	9760			
+RuntimeBroker.exe	6448			
+RuntimeBroker.exe	6684			
+RuntimeBroker.exe	9000			
+Registry	292			
+PhoneExperienceHost.exe	8232			
+OneDrive.Sync.Service.exe	12080			
+OneDrive.exe	11788			
+NisSrv.exe	5644			
+msteams.exe	9264			
+MsMpEng.exe	3464			
+msedgewebview2.exe	9880			
+msedgewebview2.exe	9936			
+msedgewebview2.exe	10176			
+msedgewebview2.exe	10196			
+msedgewebview2.exe	7164			
+msedgewebview2.exe	9588			
+msdtc.exe	4464			
+MpDefenderCoreService.exe	3488			
+MoUsoCoreWorker.exe	12048			
+MoNotificationUx.exe	6320			
+minerdcpu.exe	14000		307.4  KB	48.0  KB
+MicrosoftEdgeUpdate.exe	10536			
+Memory Compression	2340			
+lsass.exe	628			
+LogonUI.exe	15280			
+Interrupts	n/a			
+fontdrvhost.exe	1100			
+fontdrvhost.exe	1108			
+fontdrvhost.exe	8236			
+explorer.exe	4200			
+dwm.exe	1312			
+dwm.exe	9056			
+dllhost.exe	4220			
+dllhost.exe	4496			
+dllhost.exe	7884			
+dllhost.exe	14240			3.2  KB
+ctfmon.exe	624			
+csrss.exe	800			
+csrss.exe	880			
+csrss.exe	8088			
+AggregatorHost.exe	4852			
+

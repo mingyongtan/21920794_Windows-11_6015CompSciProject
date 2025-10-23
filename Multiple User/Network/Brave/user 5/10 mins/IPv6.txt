@@ -1,0 +1,7 @@
+Address,Packets,Bytes,Tx Packets,Tx Bytes,Rx Packets,Rx Bytes,Country,City,Latitude,Longitude,AS Number,AS Organization
+"fe80::ac08:6dea:f4ee:6ad5",61,5340,61,5340,0,0,"","","","","",""
+"fe80::db38:a9a8:f21f:b66c",3,471,3,471,0,0,"","","","","",""
+"ff02::1:2",3,471,0,0,3,471,"","","","","",""
+"ff02::1:3",21,1764,0,0,21,1764,"","","","","",""
+"ff02::1:ffc5:263b",6,516,0,0,6,516,"","","","","",""
+"ff02::fb",34,3060,0,0,34,3060,"","","","","",""
