@@ -11,6 +11,12 @@ Title: APPLICATION OF PARETO’S LAW TO SYSTEM PROCESSES AND NETWORK TRAFFIC TO 
 
 Supervisor : Prof. Mihai Lazarescu​​
 
+Script created to help with the analyze of raw data collected.
+1. ExtractSysgaugeRawDataFromXlsx https://github.com/mingyongtan/ExtractSysgaugeRawDataFromXlsx
+2. DiskConverterRawData https://github.com/mingyongtan/DiskConverterRawData
+3. NetworkConvertdata https://github.com/mingyongtan/NetworkConvertdata
+4. CPUMemorySysgaugeData_converter https://github.com/mingyongtan/CPUMemorySysgaugeData_converter
+
 ### Description
 This dataset presents system performance data under both Single User and Multiple User environments. Metrics such as CPU, memory, disk, and network usage were collected using SysGauge and other tools at 10-minute, 15-minute, and 20-minute intervals. Applications monitored include Discord, Microsoft Edge, and Excel. The structure is designed to support comparative analysis, system benchmarking, and resource usage evaluations under varying workloads.
 
