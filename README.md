@@ -5,6 +5,8 @@ This is my Final Year Project in Curtin University for semester 3 and semester 4
 Last Updated: 2025-10-23  
 Author: Ming Yong Tan
 
+Student ID: 21920794
+
 Title: APPLICATION OF PARETO’S LAW TO SYSTEM PROCESSES AND NETWORK TRAFFIC TO DETECT ANOMALOUS BEHAVIOUR
 
 Supervisor : Prof. Mihai Lazarescu​​
